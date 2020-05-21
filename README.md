@@ -1,12 +1,17 @@
 # Fractal-Drawer
 A script prints out fractals by instructions in .csv file using classes in Fractal.cpp
 
+=========================================================================================
+
 Files:
 -FractalDrawer.cpp - script that draws the fractals according to given .csv file
 -Fractal.h - header for Fractal class
 -Fractal.cpp - an abstract base class and two subclasses of Fractals
 
-#FractalDrawer
+=========================================================================================
+
+FractalDrawer
+============
 Reads a "recipe" for a fractal from a .csv file and uses the classes in Fractal.cpp to draw ascii fractals.
 
 the csv file can have multiple lines containing two numbers separated by a comma, i.e. "1,2"
