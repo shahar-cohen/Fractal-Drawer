@@ -1,5 +1,5 @@
 //
-// Created by shaharco on 02/01/2020.
+// c++ base class and two subclasses used to print ascii fractals
 //
 
 #include <vector>
